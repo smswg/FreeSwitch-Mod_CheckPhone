@@ -1,0 +1,8 @@
+<configuration name="check_phone.conf" description="mod_check_phone configuration">
+    <settings>
+		<!-- 推送手机号识别结果到接口 -->
+        <param name="pushUrl" value=""/>
+		<param name="match-threshold" value="150.0"/>
+		<param name="detect-window" value="3000"/>
+    </settings>
+</configuration>

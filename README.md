@@ -1,0 +1,2 @@
+# freeswitch-Mod_CheckPhone
+FreeSWITCH Mod_CheckPhone手机号空号识别模块，2025年最新基于神经网络声纹算法实现真实运营商手机号空号识别(空号检测)+关机等异常状态或早期媒体音检测,无需Asr大模型,减少语音识别费用。
